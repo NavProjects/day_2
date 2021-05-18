@@ -1,0 +1,31 @@
+button.searchbtn{
+    color: #3eadae;
+    border: 2px solid #3eadae;
+    background-color: white;
+    padding: 5px 30px;
+    border-radius: 20px;
+    margin: 0px 20px;
+    margin-top: 20px;
+    text-align: center;
+    font-weight: bolder;
+}
+button.plussgn{
+    display: block;
+    color: white;
+    background-color: #3eadae;
+    border-radius: 50%;
+    border: 0px #3eadae;
+    margin: 20px 20px;
+    font-size: 30px;
+    text-align: center;
+    padding: 3px;
+}
+button.createbtn{
+    border: #2b78e4;
+    color: white;
+    background-color: #2b78e4;
+    box-shadow: 2px 2px black;
+    margin-top: 0px;
+    margin-left: 20px;
+    padding: 5px 20px;
+}
